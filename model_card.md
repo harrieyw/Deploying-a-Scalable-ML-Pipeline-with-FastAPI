@@ -70,3 +70,5 @@ Bias may exist in race, sex, and native-country categories. Monitor behavior con
     • Bias mitigation checks are recommended upstream of any decisions.
     • Model outputs probabilistic estimates, not guaranteed outcomes.
     • Review slice metrics regularly to monitor fairness.
+
+## Github URL:  https://github.com/harrieyw/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
