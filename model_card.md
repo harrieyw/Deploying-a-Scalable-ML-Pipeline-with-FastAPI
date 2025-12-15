@@ -91,3 +91,6 @@ Summary of Fairness and Bias Considerations
     • Several groups with F1 = 0.00 indicate complete failure to detect positive cases for those slices.
     • Groups with very high scores but very small support may give the false impression of strong performance.
     • Additional data balancing, oversampling, or fairness constraints may be required to ensure equitable performance across groups.
+
+
+ GitHub link: https://github.com/harrieyw/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
